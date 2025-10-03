@@ -7,8 +7,8 @@ function App() {
       <div className="profile-section">
         <img src={profileImage} alt="Profile" className="profile-image" />
         <h1 className="name">Ынтыкбай Динмухаммед</h1>
-        <p className="title">Software Engineer & CEO QuokkaAI</p>
-        <div className="company-badge">QuokkaAI</div>
+        <p className="title">Software Engineer at Choco Holding & CEO QuokkaAI</p>
+        <div className="company-badge">AI-engineer&Fullstack</div>
       </div>
 
       <div className="social-section">
